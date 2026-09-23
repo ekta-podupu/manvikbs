@@ -300,7 +300,7 @@ body.body {
 }
 
 .sp {
-  padding: 100px 0px;
+  padding: 0px 0px;
 }
 
 .sp2 {
@@ -7016,7 +7016,7 @@ body.body {
 .project-two {
   position: relative;
   display: block;
-  padding: 140px 0 157px;
+  padding: 20px 0 70px;
 }
 
 .project-two__top {
